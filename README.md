@@ -92,7 +92,6 @@ The cutoff is computed by subtracting `N` days from the current local time, then
 | `--days 1` | Today only (since the most recent midnight) |
 | `--days 2` | Today + yesterday |
 | `--days 7` | The last 7 calendar days |
-| `--days 0.5` | Same as `--days 1` (rounds up to midnight) |
 
 ## How It Works
 
